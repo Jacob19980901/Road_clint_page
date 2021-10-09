@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/road_test_user.git/static/css/main.9d63e8cc.chunk.css",
+    "main.js": "/road_test_user.git/static/js/main.b92d67ab.chunk.js",
+    "main.js.map": "/road_test_user.git/static/js/main.b92d67ab.chunk.js.map",
+    "runtime-main.js": "/road_test_user.git/static/js/runtime-main.9610c37b.js",
+    "runtime-main.js.map": "/road_test_user.git/static/js/runtime-main.9610c37b.js.map",
+    "static/js/2.d2c18b0b.chunk.js": "/road_test_user.git/static/js/2.d2c18b0b.chunk.js",
+    "static/js/2.d2c18b0b.chunk.js.map": "/road_test_user.git/static/js/2.d2c18b0b.chunk.js.map",
+    "index.html": "/road_test_user.git/index.html",
+    "static/css/main.9d63e8cc.chunk.css.map": "/road_test_user.git/static/css/main.9d63e8cc.chunk.css.map",
+    "static/js/2.d2c18b0b.chunk.js.LICENSE.txt": "/road_test_user.git/static/js/2.d2c18b0b.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/road_test_user.git/static/media/back.42d3f708.jpg",
+    "static/media/logo1.8aaf41b6.png": "/road_test_user.git/static/media/logo1.8aaf41b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9610c37b.js",
+    "static/js/2.d2c18b0b.chunk.js",
+    "static/css/main.9d63e8cc.chunk.css",
+    "static/js/main.b92d67ab.chunk.js"
+  ]
+}
