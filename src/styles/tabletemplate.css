@@ -1,0 +1,47 @@
+.datatable {
+  padding: 30px;
+  text-align: center;
+}
+/* .template {
+    
+ } */
+.template img {
+  width: 500px;
+  height: 300px;
+  padding: 30px;
+}
+
+.information {
+  /* width: 90%; */
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.information .title {
+  padding: 10px;
+  color: grey;
+}
+.information .save a {
+  text-decoration: none;
+  padding: 10px;
+  background-color: rgb(29, 255, 29);
+  border-radius: 3px;
+  color: white;
+}
+.information .save a:hover {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: 1px solid black;
+  font-size: 20px;
+  transition: 0.8s;
+}
+
+.card {
+  width: 370px;
+  height: 200px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

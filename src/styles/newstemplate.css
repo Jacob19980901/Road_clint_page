@@ -1,0 +1,14 @@
+.news_template {
+  width: 90%;
+  margin: auto;
+  padding: 30px;
+}
+.news_template .title {
+  padding: 10px;
+}
+.news_template img {
+  float: left;
+  width: 500px;
+  height: 400px;
+  padding: 25px;
+}

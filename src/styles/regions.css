@@ -1,0 +1,62 @@
+/* .regions .map {
+  display: none;
+}
+
+.regions .active {
+  display: block;
+} */
+
+.regions {
+  position: relative;
+  margin-bottom: -40px;
+}
+.regions iframe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 70vh;
+  margin-top: -8px;
+  /* zoom; */
+}
+
+.regions .map h1 {
+  text-align: center;
+  /* background-color: transparent; */
+  background-color: #00394fd0;
+  color: white;
+  padding: 10px;
+  position: relative;
+}
+
+.regions .marks {
+  display: flex;
+  justify-content: space-around;
+  background-color: #fff;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+.regions .marks .plan {
+  font-size: 20px;
+  color: #e6761b;
+  position: relative;
+  top: -7px;
+  font-weight: bolder;
+}
+
+.regions .marks .roat {
+  font-size: 20px;
+  color: #177bc9;
+  position: relative;
+  top: -7px;
+  font-weight: bolder;
+}
+.regions .marks .complated {
+  color: #1bad03;
+  font-size: 20px;
+  position: relative;
+  top: -7px;
+  font-weight: bolder;
+}

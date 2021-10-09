@@ -1,17 +1,26 @@
 .about {
-  width: 90%;
-  height: 90vh;
+  padding: 50px;
+  height: 100%;
   margin: 0 auto;
 }
 
 .about h1 {
   font-size: 50px;
   text-align: center;
-  margin-top: 50px;
   font-family: "Montserrat";
   font-weight: 700;
 }
 .about p {
   text-align: start;
   line-height: 2;
+}
+
+@media screen and (max-width: 870px) {
+  .about {
+    padding: 15px;
+    height: max-content;
+  }
+  .about h1 {
+    font-size: 30px;
+  }
 }
